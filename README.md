@@ -1,6 +1,6 @@
-# Hi there, I'm Devashish Revadkar! 👋
+# Hi there! 👋
 
-Welcome to my GitHub profile! As an enthusiastic aspiring data professional, I am deeply passionate about all aspects of data science, analytics, and engineering. I thrive on the challenge of analyzing complex datasets, building robust models, and creating efficient data pipelines.
+I'm Devashish. As an enthusiastic aspiring data professional, I am deeply passionate about all aspects of data science, analytics, and engineering. I thrive on the challenge of analyzing complex datasets, building robust models, and creating efficient data pipelines.
 
 ## 🚀 About Me
 
