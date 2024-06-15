@@ -14,16 +14,8 @@ I'm Devashish. As an enthusiastic aspiring data professional, I am deeply passio
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Python, R, SQL
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Data Engineering**: Apache Spark, Hadoop, Airflow
+- **Programming Languages**: Python, R, SQL, Core Java, JavaScript, C++
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Tableau
+- **Databases**: MySQL, CassandraDB, MongoDB
+- **Data Engineering**: Apache Spark, Kafka, Airflow, Hadoop
 - **Version Control**: Git, GitHub
-- **Others**: Docker, Jupyter Notebooks, Excel
-
-## 📈 GitHub Stats
-
-![vjcufhh kihghk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
