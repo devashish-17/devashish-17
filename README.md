@@ -4,18 +4,20 @@ I'm Devashish. As an enthusiastic aspiring data professional, I am deeply passio
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **Real Estate EDA Project**
+- 🎓 Post Graduate Diploma in **Big Data Analytics (2024)** from CDAC ACTS Pune.
+- 🌞 Bachelor Degree in  **Information Technology (2023)** from SPPU Pune.
 - 🌱 I’m currently learning **Statistics** and **Machine Learning**
 - 👯 I’m looking to collaborate on **Data Science** and **Data Engineering** projects
-- 🤔 I’m looking for help with advanced **Machine Learning** techniques
-- 💬 Ask me about **Python**, **Pandas**, **NumPy**, **Machine Learning**, and **Data Visualization**
-- 📫 How to reach me: ddrevadkar@gmail.com
-- ⚡ Fun fact: I love exploring new data sets and turning data into actionable insights!
+- 💬 Ask me about **Python**, **Spark**, **Pandas**, **Machine Learning**, and **Data Visualization**
+- :shipit: How to reach me:
+   * 📍 Email : ddrevadkar@gmail.com
+   * 📍 Linkedin : https://www.linkedin.com/in/devashish-revadkar-2b5921216/
+
 
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**: Python, R, SQL, Core Java, JavaScript, C++
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Tableau
-- **Databases**: MySQL, CassandraDB, MongoDB
-- **Data Engineering**: Apache Spark, Kafka, Airflow, Hadoop
+- **Databases**: MySQL, MongoDB
+- **Data Engineering**: Apache Spark, Kafka, Hadoop, Hive
 - **Version Control**: Git, GitHub
